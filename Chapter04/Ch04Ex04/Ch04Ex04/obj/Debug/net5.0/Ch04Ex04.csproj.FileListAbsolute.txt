@@ -1,0 +1,16 @@
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\Ch04Ex04.exe
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\Ch04Ex04.deps.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\Ch04Ex04.runtimeconfig.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\Ch04Ex04.runtimeconfig.dev.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\Ch04Ex04.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\ref\Ch04Ex04.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\bin\Debug\net5.0\Ch04Ex04.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.csproj.AssemblyReference.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.AssemblyInfoInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.AssemblyInfo.cs
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.csproj.CoreCompileInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\ref\Ch04Ex04.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter04\Ch04Ex04\Ch04Ex04\obj\Debug\net5.0\Ch04Ex04.genruntimeconfig.cache
