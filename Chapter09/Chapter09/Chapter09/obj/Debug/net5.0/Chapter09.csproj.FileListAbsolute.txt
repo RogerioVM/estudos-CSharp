@@ -1,0 +1,16 @@
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\Chapter09.exe
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\Chapter09.deps.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\Chapter09.runtimeconfig.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\Chapter09.runtimeconfig.dev.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\Chapter09.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\ref\Chapter09.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\bin\Debug\net5.0\Chapter09.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.csproj.AssemblyReference.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.AssemblyInfoInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.AssemblyInfo.cs
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.csproj.CoreCompileInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\ref\Chapter09.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Chapter09\Chapter09\obj\Debug\net5.0\Chapter09.genruntimeconfig.cache
