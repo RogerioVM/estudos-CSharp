@@ -1,0 +1,12 @@
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.deps.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\bin\Debug\net5.0\ref\Ch09ClassLib.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.AssemblyReference.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfoInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfo.cs
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.CoreCompileInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\ref\Ch09ClassLib.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.pdb
