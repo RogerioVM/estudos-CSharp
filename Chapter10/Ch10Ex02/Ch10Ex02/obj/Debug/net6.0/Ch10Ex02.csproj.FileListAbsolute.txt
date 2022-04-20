@@ -1,0 +1,15 @@
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.exe
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.deps.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.runtimeconfig.json
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.csproj.AssemblyReference.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.AssemblyInfoInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.AssemblyInfo.cs
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.csproj.CoreCompileInputs.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\refint\Ch10Ex02.dll
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.pdb
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.genruntimeconfig.cache
+C:\projects\c#\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\Ch10Ex02\obj\Debug\net6.0\ref\Ch10Ex02.dll
